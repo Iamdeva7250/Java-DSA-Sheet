@@ -1,0 +1,56 @@
+import java.util.*;
+import java.io.*;
+
+public class KthsmallestelementinaMatrix {
+
+    public int kthSmallest(int[][] mat, int k) {
+        int n = mat.length;
+        
+        int low = mat[0][0];
+        int high = mat[n - 1][n - 1];
+        
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            
+            int count = countLessEqual(mat, mid);
+            
+            if (count < k) {
+                low = mid + 1;
+            } else {
+                high = mid;
+            }
+        }
+        
+        return low;
+    }
+    
+    private int countLessEqual(int[][] mat, int mid) {
+        int n = mat.length;
+        int row = n - 1;
+        int col = 0;
+        int count = 0;
+        
+        while (row >= 0 && col < n) {
+            if (mat[row][col] <= mid) {
+                count += row + 1;
+                col++;
+            } else {
+                row--;
+            }
+        }
+        return count;
+    }
+
+    public static void main(String[] args) {
+      KthsmallestelementinaMatrix solver = new KthsmallestelementinaMatrix();
+      int[][] mat = {
+          {1, 5, 9},
+          {10, 11, 13},
+          {12, 13, 15}
+      };
+      int k = 8;
+      int result = solver.kthSmallest(mat, k);
+      System.out.println("The " + k + "-th smallest element in the matrix is: " + result);
+    }
+    
+}
