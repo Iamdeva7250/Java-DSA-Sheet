@@ -57,24 +57,24 @@ I will update this section regularly as I complete more problems:
 |                            | Lec 2: Sorting II                 | 4                   | 4                  | 100%          | ✅ Completed  |
 | **Arrays** [40/40]          | Lec 1: Easy                       | 14                   | 14                  | 100%          | ✅ Completed |
 |                            | Lec 2: Medium                     | 14                   | 14                  | 100%          | ✅ Completed  |
-|                            | Lec 3: Hard                       | 12                   | 12                  | 00%          | ✅ Completed |
-| **Binary Search** [32/32]         | Lec 1: BS on 1D arrays            | 13                   | 13                  | 00%          | ✅ Completed  |
-|                            | Lec 2: BS on answers              | 14                   | 14                  | 00%          | 🟠 In Progress  |
-|                            | Lec 3: BS on 2D arrays            | 5                   | 5                   | 00%          | 🔴 Not Started |
-| **Strings[Basic and Medium]** [15/15]               | Lec 1: Basic String problems      | 7                   | 7                  | 00%          | 🔴 Not Started  |
-|                            | Lec 2: Medium String problems     | 8                   | 8                  | 00%          | 🔴 Not Started |
-| **Linked Lists** [31/31]           | Lec 1: 1D Linked List             | 5                  | 5                  | 00%          | 🔴 Not Started  |
-|                            | Lec 2: Doubly Linked List         | 4                   | 4                  | 00%          | 🔴 Not Started  |
-|                            | Lec 3: Medium problems of LL      | 15                   | 15                  | 00%          | 🔴 Not Started  |
-|                            | Lec 4: Medium problems of DLL     | 3                   | 3                  | 00%          | 🔴 Not Started  |
-|                            | Lec 5: Hard problems of LL        | 4                   | 4                  | 00%          | 🔴 Not Started  |
-| **Recursion** [5/25]             | Lec 1: Recursion basics           | 5                   | 5                  | 00%          | 🔴 Not Started  |
-|                            | Lec 2: Subsequences pattern       | 0                   | 12                  | 00%          | 🔴 Not Started  |
-|                            | Lec 3: Hard problems              | 0                   | 8                  | 00%          | 🔴 Not Started  |
-| **Bit Manipulation** [0/18]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
-|                            | Lec 2: Interview Problems         | 0                   | 5                  | 00%          | 🔴 Not Started  |
-|                            | Lec 3: Advanced maths             | 0                   | 5                  | 00%          | 🔴 Not Started  |
-| **Stacks and Queues** [0/30]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🔴 Not Started  |
+|                            | Lec 3: Hard                       | 12                   | 12                  | 100%          | ✅ Completed |
+| **Binary Search** [32/32]         | Lec 1: BS on 1D arrays            | 13                   | 13                  | 100%          | ✅ Completed  |
+|                            | Lec 2: BS on answers              | 14                   | 14                  | 100%         | ✅ Completed  |
+|                            | Lec 3: BS on 2D arrays            | 5                   | 5                   | 100%          | ✅ Completed |
+| **Strings[Basic and Medium]** [15/15]               | Lec 1: Basic String problems      | 7                   | 7                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Medium String problems     | 8                   | 8                  | 100%         | ✅ Completed |
+| **Linked Lists** [31/31]           | Lec 1: 1D Linked List             | 5                  | 5                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Doubly Linked List         | 4                   | 4                  | 100%          | ✅ Completed  |
+|                            | Lec 3: Medium problems of LL      | 15                   | 15                  | 100%          | ✅ Completed  |
+|                            | Lec 4: Medium problems of DLL     | 3                   | 3                  | 100%          | ✅ Completed  |
+|                            | Lec 5: Hard problems of LL        | 4                   | 4                  | 100%          | ✅ Completed  |
+| **Recursion** [5/25]             | Lec 1: Recursion basics           | 5                   | 5                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Subsequences pattern       | 0                   | 12                  | 100%          | ✅ Completed |
+|                            | Lec 3: Hard problems              | 0                   | 8                  | 100%          | ✅ Completed  |
+| **Bit Manipulation** [0/18]      | Lec 1: Learning                   | 0                   | 8                  | 100%          | ✅ Completed  |
+|                            | Lec 2: Interview Problems         | 0                   | 5                  | 100%          | ✅ Completed  |
+|                            | Lec 3: Advanced maths             | 0                   | 5                  | 100%          | ✅ Completed  |
+| **Stacks and Queues** [0/30]      | Lec 1: Learning                   | 0                   | 8                  | 00%          | 🟠 In Progress  |
 |                            | Lec 2: Prefix, Infix, PostFix Conversion Problems         | 0                   | 6                  | 00%          | 🔴 Not Started  |
 |                            | Lec 3: Monotonic Stack/Queue Problems [VVV. Imp]             | 0                   | 11                  | 00%          | 🔴 Not Started  |
 |                            | Lec 4: Implementation Problems             | 0                   | 5                  | 00%          | 🔴 Not Started  |
